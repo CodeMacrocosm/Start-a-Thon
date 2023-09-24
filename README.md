@@ -1,45 +1,29 @@
 # "Start-a-Thon: The Hello World Spectacle" 🌍👋
 
-Welcome to Contest 2, where we're taking the iconic "Hello, World!" program to a whole new level by writing it in various programming languages! 🎉
+- [![Contributors](https://img.shields.io/badge/Contributors-32-brightgreen.svg)](https://github.com/your-repo-link)
+- [![Forks](https://img.shields.io/badge/Forks-32-blue.svg)](https://github.com/your-repo-link)
+- [![Stars](https://img.shields.io/badge/Stars-10-yellow.svg)](https://github.com/your-repo-link)
+
+Welcome to Contest 2, where we're taking the iconic "Hello, World!" program hosted by Shruthi Kotawar and Shreya Malogi to a whole new level by writing it in various programming languages! 🎉
 
 ## 📚 Programming Languages Galore
 
 In this repository, you'll find "Hello, World!" programs implemented in a diverse range of programming languages. From the classics like Java and Python to some quirky languages like ArnoldC and Brainfuck, we've got it all! It's a testament to the universality and versatility of coding. 💻
 
-### Languages Contributed:
+### 🐚 Languages Contributed:
 
-- Java
-- CSS
-- Ruby
-- VB .NET
-- HTML
-- ArnoldC
-- C#
-- Kotlin
-- PHP
-- Scala
-- Python
-- C++
-- JavaScript
-- JSON
-- Perl
-- Python (again)
-- Dart
-- Golang
-- HTML (blinking version)
-- Swift
-- React (JavaScript)
-- Arduino ESP8266 (C++)
-- Haskell
-- Batch
-- Brainfuck
-- C
-- COBOL
-- Fortran
-- HTML (another one)
-- MATLAB
-- PowerShell
-- Shell
+
+
+| Column 1       | Column 2      | Column 3      | Column 4       |
+| -------------- | ------------- | ------------- | -------------- |
+| ☕️ Java        | 🎨 CSS        | 💎 Ruby       | 🌐 HTML        |
+| 🤖 ArnoldC     | #️⃣ C#         | 🎯 Kotlin     | 🐘 PHP         |
+| 🧪 Scala       | 🐍 Python     | 💻 C++        | 📜 JavaScript  |
+| 📋 JSON        | 🐚 Perl       | 🌟 Dart       | 🐱 Golang      |
+| 🌠 Swift       | ⚛️ React (JavaScript) | 🌟 Arduino ESP8266 (C++) | λ Haskell |
+| 💼 Batch       | 🧠 Brainfuck | 📊 C           | 🖥️ COBOL      |
+| 📊 Fortran     | 🐚 Shell   | 📊 MATLAB  | ⚙️ PowerShell |
+
 
 
 
@@ -72,6 +56,10 @@ Feel free to explore the collection of "Hello, World!" programs in various langu
 ## ⚖️ License
 
 This repository is open-source and available under the [MIT License](LICENSE). By contributing, you agree to abide by the terms of this license.
+
+MIT License
+
+Copyright (c) 2020 CodeMacrocosm
 
 ## 🚀 Let's Celebrate Coding!
 
