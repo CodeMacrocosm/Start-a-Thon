@@ -10,7 +10,7 @@ Welcome to Contest 2, where we're taking the iconic "Hello, World!" program host
 
 In this repository, you'll find "Hello, World!" programs implemented in a diverse range of programming languages. From the classics like Java and Python to some quirky languages like ArnoldC and Brainfuck, we've got it all! It's a testament to the universality and versatility of coding. 💻
 
-### 🐚 Languages Contributed:
+### 🐚 Languages Contributed: [by our contributors:](https://github.com/CodeMacrocosm/startathon-20/graphs/contributors)
 
 
 
