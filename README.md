@@ -1,4 +1,4 @@
-# "Start-a-Thon: The Hello World Spectacle" 🌍👋
+# "Start-a-Thon'20: The Hello World Spectacle" 🌍👋
 
 - [![Contributors](https://img.shields.io/badge/Contributors-32-brightgreen.svg)](https://github.com/your-repo-link)
 - [![Forks](https://img.shields.io/badge/Forks-32-blue.svg)](https://github.com/your-repo-link)
