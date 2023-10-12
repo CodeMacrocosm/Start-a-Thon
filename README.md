@@ -1,17 +1,58 @@
-# "Start-a-Thon'20: The Hello World Spectacle" 🌍👋
 
-- [![Contributors](https://img.shields.io/badge/Contributors-32-brightgreen.svg)](https://github.com/your-repo-link)
-- [![Forks](https://img.shields.io/badge/Forks-32-blue.svg)](https://github.com/your-repo-link)
-- [![Stars](https://img.shields.io/badge/Stars-10-yellow.svg)](https://github.com/your-repo-link)
 
-Welcome to Contest 2, where we're taking the iconic "Hello, World!" program hosted by Shruthi Kotawar and Shreya Malogi to a whole new level by writing it in various programming languages! 🎉
 
-## 📚 Programming Languages Galore
 
-In this repository, you'll find "Hello, World!" programs implemented in a diverse range of programming languages. From the classics like Java and Python to some quirky languages like ArnoldC and Brainfuck, we've got it all! It's a testament to the universality and versatility of coding. 💻
 
-### 🐚 Languages Contributed: [by our contributors:](https://github.com/CodeMacrocosm/startathon-20/graphs/contributors)
 
+
+<div align="center">
+
+# 🎯 "Start-a-Thon'20: The Hello World Spectacle" 🌍👋
+
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Start-a-Thon-20/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Start-a-Thon-20/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Start-a-Thon-20/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Start-a-Thon-20.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Start-a-Thon-20" alt="GitHub">
+</p>
+
+<div align="center">
+
+## ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Start-a-Thon-20/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Start-a-Thon-20" />
+</a>
+
+</div>
+
+### Table of Contents 📚
+
+1. [Overview](#overview)
+2. [Languages Contributed](#-languages-contributed)
+3. [How to Contribute?](#how-to-contribute)
+4. [Star it](#how-to-star-)
+5. [License](#-license)
+6. [Thanks Contributors](#contributors-)
+
+---
+
+
+
+## Overview
+
+Welcome to the iconic "Hello, World!" program hosted by **Shruthi Kotawar and Shreya Malogi** to a whole new level by writing it in various programming languages! 🎉 In this repository, you'll find "Hello, World!" programs implemented in a diverse range of programming languages. From the classics like Java and Python to some quirky languages like ArnoldC and Brainfuck, we've got it all! It's a testament to the universality and versatility of coding. 💻
+
+### 🐚 Languages Contributed: 
 
 
 | Column 1       | Column 2      | Column 3      | Column 4       |
@@ -27,42 +68,43 @@ In this repository, you'll find "Hello, World!" programs implemented in a divers
 
 
 
-## 🌟 Why Contribute?
 
-- **Showcase Your Multilingual Skills**: Express your coding prowess by contributing your own "Hello, World!" program in a programming language of your choice.
+## How to Contribute
 
-- **Learn Something New**: Explore how "Hello, World!" looks in languages you may not have worked with before. It's a fantastic learning opportunity.
+1. **Fork this Repository** 🍴
 
-- **Contribute to the Developer Community**: By sharing your code, you're contributing to the knowledge base of the developer community. Your contribution can help others learn.
+   Click the "Fork" button at the top right corner of this repository to create your personal fork.
 
-## ✨ How to Contribute
+2. **Clone Your Fork** 📥
 
-1. **Fork this Repository**: Click on the "Fork" button at the top right corner of this page to create your copy of the repository.
+   ```bash
+   git clone https://github.com/codemacrocosm/Start-a-Thon-20.git
+   ```
 
-2. **Add Your "Hello, World!" Program**: Create a new file with the naming convention `HelloWorld.<extension>`, where `<extension>` is the file type (e.g., `.java`, `.py`, `.cpp`, etc.). Implement your "Hello, World!" program in your chosen programming language.
+3. **Add Your "Hello, World!" Program**: Create a new file with the naming convention `HelloWorld.<extension>`, where `<extension>` is the file type (e.g., `.java`, `.py`, `.cpp`, etc.). Implement your "Hello, World!" program in your chosen programming language.
 
-3. **Commit and Push**: Commit your changes with a meaningful message and push them to your forked repository.
+4. **Commit and Push**: Commit your changes with a meaningful message and push them to your forked repository.
 
-4. **Create a Pull Request (PR)**: Go to the original repository, click on "Pull Requests," and create a new PR. We'll review your contribution, and once it's approved, your "Hello, World!" program will be added to this repository.
+5. **Create a Pull Request (PR)**: Go to the original repository, click on "Pull Requests," and create a new PR. We'll review your contribution, and once it's approved, your "Hello, World!" program will be added to this repository.
 
-## ⭐ Star It, 🍴 Fork It
+## How to Star ⭐
 
-If you find this multilingual "Hello, World!" collection fascinating, show your support by starring ⭐ this repository. You can also fork 🍴 it to explore, experiment, and share your own "Hello, World!" creations with the world.
+If you enjoy the patterns or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
 
-## 🌍 Explore the Collection
+## 📄 License
 
-Feel free to explore the collection of "Hello, World!" programs in various languages. You might discover something new or just enjoy the diversity of programming languages.
-
-## ⚖️ License
-
-This repository is open-source and available under the [MIT License](LICENSE). By contributing, you agree to abide by the terms of this license.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
 MIT License
 
 Copyright (c) 2020 CodeMacrocosm
 
-## 🚀 Let's Celebrate Coding!
+
+### Contributors 🙌
+
+A big thanks to all the creative minds who have contributed. Now, let the creation begin! Happy coding! 🎨✨
 
 Join us in celebrating the art of coding by contributing to this multilingual "Hello, World!" collection. It's a fun way to express your creativity and connect with fellow programmers from around the world.
 
 Happy Coding! 👩‍💻👨‍💻🌎🎈
+
