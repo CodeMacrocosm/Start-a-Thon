@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎯 "Start-a-Thon'20 💎: Hello World " 🌍👋
+# 🎯 "Start-a-Thon'20 💎: The Hello World " 🌍👋
 
 </div>
 <p align="center">
