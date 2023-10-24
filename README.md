@@ -75,7 +75,7 @@ Welcome to the iconic "Hello, World!" program hosted by **Shruthi Kotawar and Sh
    git clone https://github.com/codemacrocosm/Start-a-Thon-20.git
    ```
 
-3. **Add Your "Hello, World!" Program**: Create a new file with the naming convention `HelloWorld.<extension>`, where `<extension>` is the file type (e.g., `.java`, `.py`, `.cpp`, etc.). Implement your "Hello, World!" program in your chosen programming language.
+3. **Add Your "Hello, World!" Program**:In the `hello word files` folder, Create a new file with the naming convention `HelloWorld.<extension>`, where `<extension>` is the file type (e.g., `.java`, `.py`, `.cpp`, etc.). Implement your "Hello, World!" program in your chosen programming language.
 
 4. **Commit and Push**: Commit your changes with a meaningful message and push them to your forked repository.
 
