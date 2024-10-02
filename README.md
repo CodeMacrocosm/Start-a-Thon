@@ -72,7 +72,7 @@ Welcome to the iconic "Hello, World!" program hosted by **Shruthi Kotawar and Sh
 2. **Clone Your Fork** 📥
 
    ```bash
-   git clone https://github.com/codemacrocosm/Start-a-Thon-20.git
+   git clone https://github.com/codemacrocosm/Start-a-Thon.git
    ```
 
 3. **Add Your "Hello, World!" Program**:In the `hello word files` folder, Create a new file with the naming convention `HelloWorld.<extension>`, where `<extension>` is the file type (e.g., `.java`, `.py`, `.cpp`, etc.). Implement your "Hello, World!" program in your chosen programming language.
